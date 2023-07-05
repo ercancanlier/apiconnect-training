@@ -5,10 +5,10 @@ be able to develop and try out examples by yourself.
 
 ## API Connect Labs
 
-### Lab 1: Prepare API Connect environment for our organization.
+### Lab 1: Setting up API Connect environment for your organization.
 
-###  Lab 2: Hello API Connect!
+###  Lab 2: Developing "Hello API Connect" API.
 
-### Lab 3: API Connect end-to-end solution for an API.
+### Lab 3: Developing a LoopBack API.
 
-### Lab 4:
+### Lab 5:
