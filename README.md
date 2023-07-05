@@ -1,2 +1,14 @@
-# apiconnect-training
-Hands-on demonstration for API Connect training
+# API Connect Training Demos
+This git repo contains samples APIs and methods to demonstrate API Connect capabilities.
+Each lab has it's own folder structure and the documents inside them will guide you through steps to 
+be able to develop and try out examples by yourself.
+
+## API Connect Labs
+
+### Lab 1: Prepare API Connect environment for our organization.
+
+###  Lab 2: Hello API Connect!
+
+### Lab 3: API Connect end-to-end solution for an API.
+
+### Lab 4:
