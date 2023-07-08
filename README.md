@@ -9,6 +9,5 @@ be able to develop and try out examples by yourself.
 
 ###  Lab 2: Developing "Hello API Connect" API.
 
-### Lab 3: Developing a LoopBack API.
+### Lab 3: Adding additional security to "Hello API Connect" API.
 
-### Lab 5:

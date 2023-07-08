@@ -94,4 +94,4 @@ context.message.body.write(response);
 
 ![API Response](images/step3.8.png)
 
-** DONE:** You have just finished creating your very first "Hello API Connect" API.
+**DONE:** You have just finished creating your very first "Hello API Connect" API.
