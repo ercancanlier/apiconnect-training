@@ -83,25 +83,25 @@ plugins:
 nav:
   - Introduction: index.md
   - Reviewing the environment: lab1/lab1.md
-  #- Developing Hello World API Definition: lab2/lab2.md
-  #- Developing a microservice with LoopBack 4: lab3/lab3.md
-  #- Deploying the microservice to OpenShift: lab4/lab4.md
-  #- Developing the API Definition for microservice: lab5/lab5.md
-  #- Importing SOAP Service to APIC: lab6/lab6.md
-  #- Developing message policies: lab7/lab7.md
-  #- Developing User Defined Policy: lab8/lab8.md
-  #- Modernizing the web service: lab9/lab9.md
-  #- Setting Rate and Burst Limits: lab10/lab10.md
-  #- Testing the Rate and Burst Limits with JMeter: lab11/lab11.md
-  #- Analytics offloading: lab12/lab12.md
-  #- Analyzing Analytics: lab13/lab13.md
-  #- Implementing OAuth Security: lab14/lab14.md
-  #- Implementing Basic Auth: lab15/lab15.md
-  #- Implementing API Key Security: lab16/lab16.md
-  #- Developer Portal: lab17/lab17.md
-  #- Creating a consumer organization: lab18/lab18.md
-  #- Running APIC CLI: lab19/lab19.md
-  #- Implementing CI/CD pipeline with APIC: lab20/lab20.md
-  #- Managing product lifecycle: lab21/lab21.md  
-
+  - Developing Hello World API Definition: lab2/lab2.md
+  - Developing a microservice with LoopBack 4: lab3/lab3.md
+  - Deploying the microservice to OpenShift: lab4/lab4.md
+  - Developing the API Definition for microservice: lab5/lab5.md
+  - Importing SOAP Service to APIC: lab6/lab6.md
+  - Developing message policies: lab7/lab7.md
+  - Developing User Defined Policy: lab8/lab8.md
+  - Modernizing the web service: lab9/lab9.md
+  - Setting Rate and Burst Limits: lab10/lab10.md
+  - Testing the Rate and Burst Limits with JMeter: lab11/lab11.md
+  - Analytics offloading: lab12/lab12.md
+  - Analyzing Analytics: lab13/lab13.md
+  - Implementing OAuth Security: lab14/lab14.md
+  - Implementing Basic Auth: lab15/lab15.md
+  - Implementing API Key Security: lab16/lab16.md
+  - Developer Portal: lab17/lab17.md
+  - Creating a consumer organization: lab18/lab18.md
+  - Running APIC CLI: lab19/lab19.md
+  - Implementing CI/CD pipeline with APIC: lab20/lab20.md
+  - Managing product lifecycle: lab21/lab21.md  
+  
 docs_dir: content/
