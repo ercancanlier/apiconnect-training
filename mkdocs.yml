@@ -1,0 +1,107 @@
+# Project Info:
+site_name: API Connect Training 
+site_description: API Connect Training
+site_author: Ercan Canlıer
+
+# Repository Info:
+repo_name: ercancanlier/apiconnect-training
+repo_url: https://github.com/ercancanlier/apiconnect-training
+
+# Configuration
+theme:
+  name: material
+  language: en
+  extra:
+  alternate:
+    - name: Turkish
+      link: /tr/ 
+      lang: tr
+  palette:
+    - primary: black
+      accent: red
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+    - scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+font:
+  text: Overpass
+  code: Overpass Mono
+icon:
+  logo: material/receipt
+  repo: fontawesome/brands/github
+
+features:
+  - navigation.instant
+  - navigation.top
+  - navigation.indexes
+  - navigation.tracking
+  - content.code.copy
+
+# Extras
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ercancanlier
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ercancanlier/
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      linenums: true
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - pymdownx.tasklist
+  - pymdownx.snippets:
+      check_paths: true
+  - meta
+  - attr_list
+
+# Plugins
+plugins:
+  - search
+  - git-authors
+  - glightbox
+  - tags:
+      tags_file: tags.md
+
+# Navigation
+nav:
+  - Introduction: index.md
+  - Reviewing the environment:
+  - Developing Hello World API Definition:
+  - Developing a microservice with LoopBack 4:
+  - Deploying the microservice to OpenShift:
+  - Developing the API Definition for microservice:
+  - Importing SOAP Service to APIC:
+  - Developing message policies:
+  - Developing User Defined Policy:
+  - Modernizing the web service:
+  - Setting Rate and Burst Limits:
+  - Testing the Rate and Burst Limits with JMeter:
+  - Analytics offloading:
+  - Analyzing Analytics:
+  - Implementing OAuth Security:
+  - Implementing Basic Auth:
+  - Implementing API Key Security:
+  - Developer Portal:
+  - Creating a consumer organization:
+  - Running APIC CLI:
+  - Implementing CI/CD pipeline with APIC:
+  - Managing product lifecycle:
+
+docs_dir: content/
