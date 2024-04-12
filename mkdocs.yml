@@ -82,7 +82,7 @@ plugins:
 # Navigation
 nav:
   - Introduction: index.md
-  #- Reviewing the environment: lab1/lab1.md
+  - Reviewing the environment: lab1/lab1.md
   #- Developing Hello World API Definition: lab2/lab2.md
   #- Developing a microservice with LoopBack 4: lab3/lab3.md
   #- Deploying the microservice to OpenShift: lab4/lab4.md
